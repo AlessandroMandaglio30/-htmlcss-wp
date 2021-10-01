@@ -17,6 +17,28 @@ body{
 header{
     margin-bottom: 20px;
 }
+/**** menu ****/
+#logo{
+    height: ;
+    width: 30%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border-right: 2px solid black;
+}
+
+nav{
+    height: 40px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: lightgray;
+}
+
+nav li{
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+}
+/**** fine menu ****/
 /**** fine header ****/
 
 /**** jumbotron ****/
@@ -79,8 +101,8 @@ footer{
 
 /**** debug header ****/
 .debug header{
-    height: 90px;
-    background-color: violet ;
+    height: 200px;
+    background-color: ;
 }
 
 /**** debug .jumbotron ****/
